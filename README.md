@@ -8,7 +8,7 @@
 
 #### The Easy Way
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/VidComBot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhi123344/VidComBot)
 
 #### The Hard Way
 
